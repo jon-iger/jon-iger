@@ -17,7 +17,7 @@ In short, I’m a dedicated mobile developer always ready to take on the unknown
 </div>
 
 <div align="center">
-  <h2>Languages and Frameworks 🌎</h2>
+  <h2>Languages and Frameworks 💻</h2>
     <img src="https://img.shields.io/badge/Swift-Ffa500?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
     <img src="https://img.shields.io/badge/Objective-C-Ffa500?style=for-the-badge&logo=objectivec&logoColor=white" alt="Objective-C" />
     <img src="https://img.shields.io/badge/Kotlin-2bcf0d?style=for-the-badge&logo=kotlint&logoColor=white" alt="Kotlin" />
